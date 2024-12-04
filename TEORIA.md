@@ -1,3 +1,3 @@
 # Índice de teoría
-### Introducción
-[Sintaxis](teoriaVHDL/SQL.md)
+### Estructura del código VHDL
+[Sintaxis](teoriaVHDL/Sintaxis.md)
