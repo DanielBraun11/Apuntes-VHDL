@@ -3,3 +3,5 @@
 [Sintaxis](teoriaVHDL/Sintaxis.md)
 
 [Estructura](teoriaVHDL/Estructura.md)
+
+[Objetos de Datos y Asignación Condicional](teoriaVHDL/ObjetosDatos.md)
